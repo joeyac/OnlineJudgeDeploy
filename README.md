@@ -4,6 +4,7 @@
 
  - 必要的工具 `apt-get update && apt-get install -y vim python-pip curl git`
  - 安装 docker `curl -sSL https://get.daocloud.io/docker | sh`
+ - 安装 setuptools `sudo pip install setuptools`
  - 安装 docker-compose `LC_CTYPE= pip install docker-compose`
 
 ## Windows 系统安装基础环境
